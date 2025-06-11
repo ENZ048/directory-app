@@ -1,4 +1,4 @@
-# Dictionary App 🧾
+# Directory App 🧾
 
 A modern, responsive React application to manage and retrieve personal records using Aadhar numbers. Built with **Tailwind CSS** for sleek UI and **React Toastify** for interactive alerts.
 

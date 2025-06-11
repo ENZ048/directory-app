@@ -22,7 +22,7 @@ A modern, responsive React application to manage and retrieve personal records u
 
 ## 🚀 Demo
 
-![App Preview](https://directory-app-fn2v.onrender.com)
+[App Preview](https://directory-app-fn2v.onrender.com)
 
 ---
 

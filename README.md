@@ -1,12 +1,37 @@
-# React + Vite
+# Dictionary App 🧾
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive React application to manage and retrieve personal records using Aadhar numbers. Built with **Tailwind CSS** for sleek UI and **React Toastify** for interactive alerts.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 🔄 Tabbed interface: Switch between **Add New Person** and **Retrieve Information**
+- ➕ Add dynamic rows with form inputs
+- 🧠 Automatically calculates **Age** from Date of Birth
+- ✅ Validation:
+  - Aadhar must be 12 digits
+  - Mobile must be 10 digits
+- 💾 Saves data to **localStorage**
+- 🔍 Retrieve user details using Aadhar number
+- ❌ Delete unsaved or saved entries
+- 🎨 Responsive and beautifully styled with Tailwind CSS
+- 🔔 Interactive feedback using `react-toastify`
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Demo
+
+![App Preview](https://directory-app-fn2v.onrender.com)
+
+---
+
+## 📦 Tech Stack
+
+- **React** (with Hooks)
+- **Tailwind CSS**
+- **React Toastify**
+- **LocalStorage API**
+
+---
+
